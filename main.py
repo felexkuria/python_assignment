@@ -12,6 +12,7 @@ def addition(a ,b):
   print(f"✔️✔️  {a} + {b} = {sum}")
  else:
   print("Operator doesnot exist ❌❌")
+  return
 
  
  return sum;
